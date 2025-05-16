@@ -1,6 +1,5 @@
 import {Component, Input} from '@angular/core';
 import {Profile} from '../../data/interfaces/profile.interface';
-import {taggedTemplate} from '@angular/compiler';
 import {ImgUrlPipe} from '../../helpers/pipes/img-url.pipe';
 
 @Component({
